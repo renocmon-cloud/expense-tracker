@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# expense-tracker
+Smart Expense Tracker Pro is an advanced finance management app built with KendoReact’s free library. Beyond expense tracking, it delivers analytics, multi-user support, and smart budgeting tools, showcasing the power and versatility of KendoReact.
+>>>>>>> ded30a77ed4329684972f45d74d3816a4ab15d72
